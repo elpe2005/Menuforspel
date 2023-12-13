@@ -991,10 +991,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 352795122}
-        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
-        m_MethodName: BackMenu
-        m_Mode: 1
+      - m_Target: {fileID: 1438045816}
+        m_TargetAssemblyTypeName: SceneChanger, Assembly-CSharp
+        m_MethodName: MoveToScene
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1050,10 +1050,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1438045811}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa536e160803c6f468aa4d07c7059f98, type: 3}
+  m_Script: {fileID: 11500000, guid: f7a8b3f4f5b6f5949ad1acbbb23f3d4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pauseMenuUI: {fileID: 0}
 --- !u!224 &1565178022 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6627863198818614796, guid: cce6470ae58154748b966353aacf215a,
