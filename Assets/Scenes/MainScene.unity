@@ -6445,8 +6445,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1553786537}
   - component: {fileID: 1553786540}
-  - component: {fileID: 1553786539}
   - component: {fileID: 1553786538}
+  - component: {fileID: 1553786539}
   m_Layer: 5
   m_Name: MenuButton
   m_TagString: Untagged

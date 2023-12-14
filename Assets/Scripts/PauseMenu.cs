@@ -34,4 +34,7 @@ public class PauseMenu : MonoBehaviour
         Debug.Log("Quitting game...");
         Application.Quit();
     }
+    public void BackButton(){
+        SceneManager.LoadScene(0);
+    }
 }
